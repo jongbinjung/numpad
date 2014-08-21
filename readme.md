@@ -12,8 +12,10 @@ See below for a list of provided functionalities.
 
 # Commands
 ## Numbers
-7 | 8 | 9
-u | i | o
-j | k | l
-n/m |
+|Key bindings|
+|:----:|:----:|:----:|
+|`7=7` | `8=8` | `9=9`|
+|`u=4` | `i=5` | `o=6`|
+|`j=1` | `k=2` | `l=3`|
+|`n=m=0`|
 
